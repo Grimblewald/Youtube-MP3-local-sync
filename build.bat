@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=pirate_flag.ico --add-data "bin\\ffmpeg.exe;bin" --clean convert.py
